@@ -1,4 +1,4 @@
-### Instructions Coming Soon 
+### More Specific Instructions Coming Soon 
 * In the meantime, you can follow the similar instructions from my other app here: [Obtaining an API Key](https://github.com/ThioJoe/YT-Spammer-Purge/wiki/Instructions:-Obtaining-an-API-Key)
 * **When following those instructions, the only changes to the process should be:**
   - At steps 6 & 7: Instead of enabling the YouTube API, search for and enable the "[Cloud Text To Speech API](https://console.cloud.google.com/apis/library/speech.googleapis.com)" and "[Cloud Translation API](https://console.cloud.google.com/apis/library/translate.googleapis.com)"
