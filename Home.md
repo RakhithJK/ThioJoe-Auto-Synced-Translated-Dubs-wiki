@@ -3,5 +3,5 @@
 * Support for Azure TTS
 
 
-### Feature Maybe Eventually:
+### Features Maybe Eventually:
 * Support for Amazon Polly
