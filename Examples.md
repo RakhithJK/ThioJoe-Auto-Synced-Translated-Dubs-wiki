@@ -4,7 +4,7 @@
 
 ### Spanish AI Dub: [Download Here](https://files.thiojoe.com/github/What+if+You+Never+Activate+Windows+-+Spanish+Dub.wav)
 
-### Original English SRT (Partial)
+### Original English SRT Sample
 ```
 1
 00:00:00,140 --> 00:00:01,990
