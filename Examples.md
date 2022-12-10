@@ -1,7 +1,7 @@
 ## Original Video: [What if You NEVER Activate Windows?](https://www.youtube.com/watch?v=8bJrWrTSHvY)
 
 - ### Sync Demo (Video Re-Dubbed in English): [Watch Here](https://youtu.be/mGEAjxptZRQ)
-- ### Spanish Dub Audio (Two Passes): [Download Here](https://files.thiojoe.com/github/DubSamples/What+if+You+Never+Activate+Windows+-+Spanish+Azure+TwoPass.mp3)
+- ### Spanish Dub Audio (Two Passes - Higher Quality): [Download Here](https://files.thiojoe.com/github/DubSamples/What+if+You+Never+Activate+Windows+-+Spanish+Azure+TwoPass.mp3)
 - ### Spanish Dub Audio (One Pass): [Download Here](https://files.thiojoe.com/github/DubSamples/What+if+You+Never+Activate+Windows+-+Spanish+Azure+OnePass.mp3)
 
 ---------
