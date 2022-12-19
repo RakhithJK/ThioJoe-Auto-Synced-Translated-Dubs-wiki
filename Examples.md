@@ -1,8 +1,12 @@
 ## Original Video: [What if You NEVER Activate Windows?](https://www.youtube.com/watch?v=8bJrWrTSHvY)
-
 - ### Sync Demo (Video Re-Dubbed in English): [Watch Here](https://youtu.be/mGEAjxptZRQ)
 - ### Spanish Dub Audio (2 Passes - Higher Quality): [Download Here](https://files.thiojoe.com/github/DubSamples/What+if+You+Never+Activate+Windows+-+Spanish+Azure+TwoPass.mp3)
 - ### Spanish Dub Audio (1 Pass): [Download Here](https://files.thiojoe.com/github/DubSamples/What+if+You+Never+Activate+Windows+-+Spanish+Azure+OnePass.mp3)
+---------
+## YouTube Usage Example:
+   <p align="center"><img width="322" alt="YouTube Audio Track Selection Feature" src="https://user-images.githubusercontent.com/12518330/208510068-c58e40ea-0862-476b-be3c-58b1c14d39bb.png">   <img width="209" alt="image" src="https://user-images.githubusercontent.com/12518330/208510336-56c1ed14-8e5b-4a05-a8d2-c8a0f4d55642.png"></p>
+
+<p align="center">See video linked above, which has this feature enabled.</p>
 
 ---------
 ### Original English SRT Sample
