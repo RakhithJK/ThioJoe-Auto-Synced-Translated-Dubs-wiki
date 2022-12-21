@@ -6,3 +6,6 @@
 
 ### Features Maybe Eventually:
 * Support for Amazon Polly
+
+### Looking Into It
+* Find a way to do 'forced alignment' of a good transcript with the video to get word-level timestamps, which would make it easier to start and stop speech clips at more natural breakpoints.
